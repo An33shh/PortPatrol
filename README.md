@@ -49,9 +49,7 @@ PortPatrol consists of two main components:
 
 Run the built executable portpatrol to initiate network scanning and packet analysis. Example usage:
 
-    ```bash
     ./portpatrol --target 192.168.1.1
-    ```
 
 ## License
 
